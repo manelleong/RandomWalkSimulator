@@ -1,0 +1,6 @@
+=== Batch Results ===
+levy:
+  Trials Run:     500
+  Avg Efficiency: 0.008 (food / step)
+  Avg Steps:      4152.2
+  Avg Food:       30.0

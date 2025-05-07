@@ -1,0 +1,10 @@
+# Grid
+GRID_WIDTH = 80 # in tile units
+GRID_HEIGHT = 45
+TILE_SIZE = 16 # in pixels
+
+# Colors
+LEVY_COLOR = (137, 207, 240)
+BROWNIAN_COLOR = (165, 42, 42)
+FOOD_COLOR = (34, 139, 34)
+BACKGROUND_COLOR = (250, 246, 233)

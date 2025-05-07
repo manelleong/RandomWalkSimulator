@@ -1,0 +1,6 @@
+=== Batch Results ===
+brownian:
+  Trials Run:     500
+  Avg Efficiency: 0.003 (food / step)
+  Avg Steps:      11793.9
+  Avg Food:       30.0
